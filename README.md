@@ -1,2 +1,2 @@
-# lecture03-javascript-part1
-lecture03 live-coding.
+# lecture04-javascript-part1
+lecture04 live-coding.
